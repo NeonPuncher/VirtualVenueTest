@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.virtualvenue.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "E:\\School\\Fucking Stage\\VRTest\\VirtualVenueTest\\Virtual Venue\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Virtual Venue [Testing]"
+        }
+      }
+    }
+  ]
+}
